@@ -88,8 +88,7 @@ public class GameManager : MonoBehaviour
         //_totalGold += value;
         //GoldInfo.text = $"Gold: { _totalGold.ToString("0") }";
         GoldInfo.text = $"Gold:{UserDataManager.Progress.Gold.ToString("0")}";
-        //UserDataManager.Save(_saveDelayCounter < 0f);
-        UserDataManager.Save();
+        UserDataManager.Save(_saveDelayCounter < 0f);
         if(_saveDelayCounter < 0f)
         {
             _saveDelayCounter = SaveDelay;
