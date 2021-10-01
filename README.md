@@ -5,7 +5,7 @@ Then Needed :
 
 This Repository Has 2 Branches, namely :
 - Main Branch : Full With Local Save
-- Second Branch : Script Only for Cloud Save
+- Second Branch : Full With Cloud Save
 
 Added Apps :
 - Incremental Game Apps :
