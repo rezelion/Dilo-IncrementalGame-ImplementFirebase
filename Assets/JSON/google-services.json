@@ -2,6 +2,7 @@
   "project_info": {
     "project_number": "372203037534",
     "project_id": "dilo---incremental-game-300920",
+    "firebase_url": "https://dilo---incremental-game-300920-default-rtdb.asia-southeast1.firebasedatabase.app/",
     "storage_bucket": "dilo---incremental-game-300920.appspot.com"
   },
   "client": [
