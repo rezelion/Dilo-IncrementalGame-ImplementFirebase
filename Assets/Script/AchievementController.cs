@@ -25,11 +25,6 @@ public class AchievementController : MonoBehaviour
     [SerializeField] private float _popUpShowDuration = 3f;
     [SerializeField] private List<AchievementData> _achievementList;
     private float _popUpShowDurationCounter;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     private void Update()
